@@ -1,1 +1,1 @@
-# techniques-of-effective-programming
+# Semester III - Techniques of effective programming
